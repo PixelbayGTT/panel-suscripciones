@@ -6,8 +6,6 @@ import { getFirestore, collection, addDoc, updateDoc, deleteDoc, doc, onSnapshot
 
 // --- CONFIGURACIÓN DE FIREBASE (Pega tus datos aquí abajo) ---
 const firebaseConfig = {
-  // Pega aquí las claves que obtuviste de la consola de Firebase
-const firebaseConfig = {
 
   apiKey: "AIzaSyBg4JuYpPktFoaAHFeboc7mDHSvaGD9YKA",
 
